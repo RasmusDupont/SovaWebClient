@@ -1,0 +1,11 @@
+C:\Users\rasmu\source\repos\SovaWebClient\bin\Debug\netcoreapp2.0\SovaWebClient.deps.json
+C:\Users\rasmu\source\repos\SovaWebClient\bin\Debug\netcoreapp2.0\SovaWebClient.runtimeconfig.json
+C:\Users\rasmu\source\repos\SovaWebClient\bin\Debug\netcoreapp2.0\SovaWebClient.runtimeconfig.dev.json
+C:\Users\rasmu\source\repos\SovaWebClient\bin\Debug\netcoreapp2.0\SovaWebClient.dll
+C:\Users\rasmu\source\repos\SovaWebClient\obj\Debug\netcoreapp2.0\SovaWebClient.csprojResolveAssemblyReference.cache
+C:\Users\rasmu\source\repos\SovaWebClient\obj\Debug\netcoreapp2.0\SovaWebClient.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\SovaWebClient\obj\Debug\netcoreapp2.0\SovaWebClient.AssemblyInfoInputs.cache
+C:\Users\rasmu\source\repos\SovaWebClient\obj\Debug\netcoreapp2.0\SovaWebClient.AssemblyInfo.cs
+C:\Users\rasmu\source\repos\SovaWebClient\bin\Debug\netcoreapp2.0\SovaWebClient.pdb
+C:\Users\rasmu\source\repos\SovaWebClient\obj\Debug\netcoreapp2.0\SovaWebClient.dll
+C:\Users\rasmu\source\repos\SovaWebClient\obj\Debug\netcoreapp2.0\SovaWebClient.pdb
